@@ -1,4 +1,4 @@
 # Mochileiro
 
 ## Modo de uso
-mochileiro <ArquivosDados>.txt
+mochileiro \<ArquivosDados\>.txt
