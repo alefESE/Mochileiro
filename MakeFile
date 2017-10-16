@@ -1,0 +1,4 @@
+all: Mochileiro
+
+Mochileiro: mochileiro.c
+  gcc mochileiro.c -o mochileiro
