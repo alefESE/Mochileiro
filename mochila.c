@@ -23,7 +23,7 @@ int mochila(int capacidade, int pesos[], int valores[], int n){
 
 int main(int argc, char **argv){
     if(argc > 2 || argc <= 1){
-		printf("modo de uso: mochila <ArquivoMatrizAdjacencia>.txt\n");
+		printf("modo de uso: mochila <ArquivoDados>.txt\n");
 		return 0;
 	}
 	// problema de buffer
